@@ -1,0 +1,2 @@
+C:/Users/Aya/StudioProjects/petcare2/android/app/.cxx/Debug/6e4t6s66/x86/CMakeFiles/edit_cache.dir
+C:/Users/Aya/StudioProjects/petcare2/android/app/.cxx/Debug/6e4t6s66/x86/CMakeFiles/rebuild_cache.dir
